@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body style="background-color: beige;">
+    <div style="justify-content:center;display:flex;">
+        <img src="/image.png" alt="" width="250px" height="300px">
+    </div>
+    <h2 align="center">
+        NHET SREYROTH
+    </h2>
+    <h2> Student in NTTI( national Technical Training Institute) Mjor:software engineer</h2>
+    <h3>Current Adress:stress 271, Sangkat serng meanchey,Khan Meanchey,Phnom penh
+        Email:nheysreyroth77@gmail.com
+
+</h3>
+<h1> Eduction</h1
+<ul type="circle">
+    <li>Primary School: Tep Pranom Primary School</li>
+    <li>Secondary school :Sok An Prey Thom Secondary school(2021-2023)</li>
+    <li>High School:Sok An Thnal Bom bek High School(2023-2024) </li>
+    <li>In 2024,I Transfered  to Chea simsamaki High School in Phnom Penh </li>
+</ul>
+<h2> Skills: </h2>
+   <ul type="circle">
+    <li>I Participated in a debate competition and won first place.</li>
+   <li>computer (word/excel Received a certificate of Appreciation from SC Academy)</li>
+   <li>Volunteer Menber at (IYF)</li>
+   </ul>
+</p>
+   <h2>Languages</h2>
+   <p>Khmer:Monther Tongue
+    <li>
+     English: Intermediate in spring Education Center</li>
+   </p>
+   <h2> Interest</h2>
+   <p>
+    <ul type="circle">
+        <li>Reading Novel Book</li>
+        <li>Watching movies</li>
+        <li>Playing football,Basketball,Volleyball </li>
+        <li>Thank You</li>
+    </ul>
+   </p>
+   
+</body>
+</html>
